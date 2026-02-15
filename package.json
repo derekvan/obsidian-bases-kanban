@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-bases-kanban",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Adds kanban view to Obsidian Bases.",
 	"main": "main.js",
 	"scripts": {

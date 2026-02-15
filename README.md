@@ -19,6 +19,17 @@ Adds a kanban layout to [Obsidian Bases](https://help.obsidian.md/bases) so you 
 
 ## Installation
 
+### Via BRAT (Beta Testing)
+
+You can install this plugin using the [BRAT plugin](https://github.com/TfTHacker/obsidian42-brat):
+
+1. Install BRAT from the Obsidian Community Plugins
+2. In BRAT settings, click "Add Beta plugin"
+3. Enter: `derekvan/obsidian-bases-kanban`
+4. Enable "Bases Kanban" in Settings → Community plugins
+
+BRAT will automatically check for updates and keep your plugin up to date.
+
 ### For development
 
 1. Clone this repository into your vault's `.obsidian/plugins/` folder
